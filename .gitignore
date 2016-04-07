@@ -1,0 +1,4 @@
+#rem log folder
+logs/
+#игнорировать все txt-файлы в папке docs/
+docs/*.txt
